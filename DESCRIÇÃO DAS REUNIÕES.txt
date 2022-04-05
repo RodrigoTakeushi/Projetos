@@ -1,0 +1,38 @@
+04/04/2022 - 20:05:45
+
+
+Dominio: ic2cloud.tk
+
+Instância Pública (mas em questão de boas práticas precisam estar em instâncias privadas).
+
+Solução S3: 
+
+Instância t2.micro somente para teste. Talvez usar uma m5
+
+Problema e grande questão é como é atualizado?
+
+-> Como atualizar? Git? Docker?
+
+O que utilizar? Docker? Kubernet(descartado).
+
+-----------------------------------------------------------------------------------
+Ferramentas testes
+
+https://app.cloudcraft.co/blueprint/4ab0b34e-7460-43fb-b233-cc020b206807
+
+Atualização via Git automaticamente,
+Autualização SSH: Manualmente.
+-----------------------------------------------------------------------------------
+
+Utilizar app CloudCraft (criar designer)
+AWS tem ferramenta para teste.
+
+
+
+
+
+
+
+
+
+
